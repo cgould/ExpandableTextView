@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="ExpandableTextOptions">
+		<attr name="title_color" format="color" />
+		<attr name="collapsed_title_text" format="string" />
+		<attr name="expanded_title_text" format="string" />
+	</declare-styleable>
+</resources>
